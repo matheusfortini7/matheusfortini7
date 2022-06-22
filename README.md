@@ -1,14 +1,13 @@
-Hi 👋 My name is Matheus
+Olá 👋 Meu nome é Matheus
 ========================
 
 Full Stack Web Developer
 ------------------------
 
-Estudo programação há cerca de dois anos e sou aluno do batch #898 do bootcamp da Le Wagon. O curso ensina todas as habilidades necessárias para um desenvolver full stack como por exemplo HTML5, CSS3, Javascript além de ferramentas de backend como a linguagem de programação Ruby, Ruby on rails e SQL.
+Estudo programação há cerca de dois anos e sou aluno do batch #898 do bootcamp da Le Wagon. O curso ensina todas as habilidades necessárias para um desenvolvedor full stack como por exemplo HTML5, CSS3, Javascript além de ferramentas de back end como Ruby on rails, SQL e Heroku.
 
-* 🌍  I'm based in São Paulo, Brasil
-* ✉️  You can contact me at [matheusfortini7@gmail.com](mailto:matheusfortini7@gmail.com)
-* 🧠  I'm learning Rub on rails
+* 🌍  São Paulo, Brasil
+* ✉️  matheusfortini7@gmail.com
 
 ### Skills
 
