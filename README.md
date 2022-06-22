@@ -4,7 +4,7 @@ Olá 👋 Meu nome é Matheus
 Full Stack Web Developer
 ------------------------
 
-Estudo programação há cerca de dois anos e sou aluno do batch #898 do bootcamp da Le Wagon. O curso ensina todas as habilidades necessárias para um desenvolvedor full stack como por exemplo HTML5, CSS3, Javascript além de ferramentas de back end como Ruby on rails, SQL e Heroku.
+Estudo programação há cerca de dois anos e participei do batch #898 do bootcamp da Le Wagon. O curso ensina todas as habilidades necessárias para um desenvolvedor full stack como por exemplo HTML5, CSS3, Javascript além de ferramentas de back end como Ruby on rails, SQL e Heroku.
 
 * 🌍  São Paulo, Brasil
 * ✉️  matheusfortini7@gmail.com
