@@ -34,10 +34,4 @@ Realizei o bootcamp de desenvolvimento web da Le Wagon SP em que aprendi habilid
 
 <a href="http://www.github.com/matheusfortini7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusfortini7&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/matheusfortini7"><img src="https://activity-graph.herokuapp.com/graph?username=matheusfortini7&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/matheusfortini7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfortini7&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositórios</b>
-
-<div width="100%" align="center"><a href="https://github.com/matheusfortini7/cade-o-tio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusfortini7&repo=cade-o-tio&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/matheusfortini7/setimo_andar" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusfortini7&repo=setimo_andar&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
