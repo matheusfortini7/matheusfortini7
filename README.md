@@ -4,11 +4,10 @@ Matheus 🎈
 Full Stack Developer
 --------------------
 
-Realizei o bootcamp de desenvolvimento web da Le Wagon SP em que aprendi habilidades voltadas a front e back end. Antes disso, me formei em Administração no Mackenzie e trabalhei com produtos digitais como Scrum Master. Atualmente trabalho em projetos pessoais a fim de criar meu portfólio.
+Realizei o bootcamp de desenvolvimento web da Le Wagon SP em que aprendi habilidades voltadas a front e back end. Antes disso, me formei em Administração no Mackenzie e trabalhei com produtos digitais como Scrum Master. Atualmente procuro oportunidades como desenvolvedor Jr em Ruby. 
 
 * 🌍  São Paulo
 * ✉️  [matheusfortini7@gmail.com](mailto:matheusfortini7@gmail.com)
-* 🧠  Estou aprendendo React e Node J.s
 
 ### Skills
 
